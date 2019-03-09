@@ -19,7 +19,12 @@
    * The Decision Boundry <br>
    ![KNN result](https://github.com/R-Suresh/Machine_Learning_Classifier_Basics/blob/master/images/knn_result.png)
    * Confusion Matrix obtained <br>
-      ![Confusion Matrix](https://github.com/R-Suresh/Machine_Learning_Classifier_Basics/blob/master/images/confusion%20matrix.png)
+      ![Confusion Matrix KNN](https://github.com/R-Suresh/Machine_Learning_Classifier_Basics/blob/master/images/confusion_matrix_KNN.png)
 
  ## Naive Bayes Classifier
- * WIP
+* The file ```Wine Data Set Decision Naive Bayes Classifier Visualization.ipynb``` shows a Naive Bayes model constructed for the wine dataset.
+   * The Decision Boundry (slightly off due to PCA error) <br>
+   ![NB result](https://github.com/R-Suresh/Machine_Learning_Classifier_Basics/blob/master/images/dec_bound_nb.png)
+   * Confusion Matrix obtained <br>
+      ![Confusion Matrix NB](https://github.com/R-Suresh/Machine_Learning_Classifier_Basics/blob/master/images/confusion_matrix_NB.png)
+
