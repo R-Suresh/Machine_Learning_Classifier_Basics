@@ -1,5 +1,6 @@
 # Machine_Learning_Classifier_Basics
 
+This project compares and explicates different machine learning classifiers. The Wine dataset is used for this purpose.
 * Input wine dataset (PCA based visualization) <br>![Svm Input](https://github.com/R-Suresh/SVM_Basics/blob/master/images/svm_input.png)
 
 ## Support Vector Machines (SVMs)
